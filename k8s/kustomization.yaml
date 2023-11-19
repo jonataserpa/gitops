@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: jonataserpa/gitops
-  newTag: 55f36cb53adbe095908594b2a2a67c54317ce556
+  newTag: novatag
